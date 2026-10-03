@@ -22,7 +22,7 @@ import androidx.core.app.ActivityOptionsCompat;
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
-
+    // commit 3
     // MSSV của bạn
     private static final String TAG = "A5_231A010308";
 
